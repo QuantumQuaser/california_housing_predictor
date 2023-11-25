@@ -1,6 +1,6 @@
 <img src="https://github.com/QuantumQuaser/california_housing_predictor/blob/main/gifs%20used/california%20housing%20predictor.gif" width="600" height="40" />
 
-<img src="https://github.com/QuantumQuaser/california_housing_predictor/blob/main/pictures%20used/california%20housing%20landscape.png" width="400" height="300"> 
+<img src="https://github.com/QuantumQuaser/california_housing_predictor/blob/main/pictures%20used/california%20housing%20landscape.png" width="600" height="300"> 
 
 ## Overview
 
