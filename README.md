@@ -1,7 +1,6 @@
 # California Housing Predictor
 
-![Housing Landscape](california_housing_predictor/pictures used
-/california housing landscape.png)
+![Housing Landscape](california_housing_predictor/pictures used/california housing landscape.png)
 
 ## Overview
 
