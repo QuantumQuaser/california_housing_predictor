@@ -44,7 +44,7 @@ Follow the on-screen prompts to input the required housing data or use the prelo
 
 ## Performance Metrics
 
-![Performance Metrics]()
+
 <img src="https://github.com/QuantumQuaser/california_housing_predictor/blob/main/pictures%20used/Performance%20Metrics.png" width="600" height="300"> 
 
 
@@ -99,6 +99,8 @@ This project is licensed under the MIT License - see the [LICENSE.md](LICENSE) f
 ## Puzzle Challenge
 
 **Can you outsmart our predictor?**
+
+
 <img src="https://github.com/QuantumQuaser/california_housing_predictor/blob/main/pictures%20used/puzzle.png" width="600" height="300"> 
 
 
