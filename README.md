@@ -1,8 +1,10 @@
 # California Housing Predictor
 
-![Housing Landscape](https://github.com/QuantumQuaser/california_housing_predictor/blob/main/pictures%20used/california%20housing%20landscape.png | width=100)
+![Housing Landscape](<img src="https://github.com/QuantumQuaser/california_housing_predictor/blob/main/pictures%20used/california%20housing%20landscape.png" width="100" height="100"> )
 
 ## Overview
+
+<img src="https://github.com/QuantumQuaser/california_housing_predictor/blob/main/pictures%20used/california%20housing%20landscape.png" width="100" height="100">
 
 Welcome to the California Housing Predictor project! This tool is designed to forecast housing prices in California using machine learning models. Dive into the data, explore the factors influencing housing prices, and see how well you can predict the next market trends. Are you ready to challenge the algorithm?
 
