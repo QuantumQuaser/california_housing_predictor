@@ -18,6 +18,14 @@ Welcome to the California Housing Predictor project! This tool is designed to fo
 - [License](#license)
 - [Puzzle Challenge](#puzzle-challenge)
 
+
+```python
+# Import necessary libraries
+from sklearn.datasets import fetch_california_housing
+from sklearn.model_selection import train_test_split
+from sklearn.linear_model import LinearRegression
+from sklearn.metrics import mean_squared_error, r2_score
+
 ## Installation
 
 To get started with this predictor, you'll need to install the necessary Python packages. Here's how you can set up your environment:
