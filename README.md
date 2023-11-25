@@ -30,13 +30,21 @@ housing = fetch_california_housing()
 X, y = housing.data, housing.target'
   ````
 
+
 <img src="https://github.com/QuantumQuaser/california_housing_predictor/blob/main/gifs%20used/step%203.gif" width="600" height="40" />
+
+
 
 ````python
 print '# Preprocessing data
 X_train, X_test, y_train, y_test = train_test_split(X, y, test_size=0.2, random_state=42)'
   ````
+
+
+
 <img src="https://github.com/QuantumQuaser/california_housing_predictor/blob/main/gifs%20used/step4.gif" width="600" height="40" />
+
+
 
 ````python
 print '# Initiating model training
@@ -44,7 +52,11 @@ model = LinearRegression()
 
 model.fit(X_train, y_train)'
   ````
+
+
 <img src="https://github.com/QuantumQuaser/california_housing_predictor/blob/main/gifs%20used/step4.gif" width="600" height="40" />
+
+
 
 ````python
 print '# Making predictions and evaluating the model
@@ -56,6 +68,8 @@ r2 = r2_score(y_test, y_pred)
 print(f"Mean Squared Error: {mse}")
 print(f"R^2 Score: {r2}")'
   ````
+
+
 
 ## Table of Contents
 
