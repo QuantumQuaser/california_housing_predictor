@@ -24,14 +24,9 @@ cd california-housing-predictor
 pip install -r requirements.txt
 \```
 
-## Usage
 
-## Usage
 
-To run the housing predictor, navigate to the project directory and execute:
 
-```bash
-python california_housing_predictor.py
 
 
 Follow the on-screen prompts to input the required housing data or use the preloaded datasets to see our model in action.
