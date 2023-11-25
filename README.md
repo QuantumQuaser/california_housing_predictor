@@ -1,6 +1,6 @@
 # California Housing Predictor
 
-![Housing Landscape](<img src="https://github.com/QuantumQuaser/california_housing_predictor/blob/main/pictures%20used/california%20housing%20landscape.png" width="100" height="100"> )
+(<img src="https://github.com/QuantumQuaser/california_housing_predictor/blob/main/pictures%20used/california%20housing%20landscape.png" width="600" height="600"> )
 
 ## Overview
 
