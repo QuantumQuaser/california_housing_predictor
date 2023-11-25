@@ -1,5 +1,8 @@
 # California Housing Predictor
 
+![Housing Landscape](california_housing_predictor/pictures used
+/california housing landscape.png)
+
 ## Overview
 
 Welcome to the California Housing Predictor project! This tool is designed to forecast housing prices in California using machine learning models. Dive into the data, explore the factors influencing housing prices, and see how well you can predict the next market trends. Are you ready to challenge the algorithm?
@@ -39,6 +42,8 @@ Follow the on-screen prompts to input the required housing data or use the prelo
 - Prediction of housing prices based on input features
 
 ## Performance Metrics
+
+![Performance Metrics](pictures used/Performance Metrics.png)
 
 Evaluating the accuracy and performance of our predictive model is crucial to understanding its effectiveness in forecasting housing prices. We use two primary metrics for this purpose:
 
@@ -90,6 +95,7 @@ This project is licensed under the MIT License - see the [LICENSE.md](LICENSE) f
 ## Puzzle Challenge
 
 **Can you outsmart our predictor?**
+![Puzzle fun](pictures used/puzzle.png)
 
 - *The Puzzle*: With a fixed budget, you are to buy a property in California that will appreciate the most in the next year. Consider factors like location, size, and nearby amenities. How would you make your choice?
 
