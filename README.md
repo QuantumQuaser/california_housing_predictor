@@ -42,7 +42,7 @@ Follow the on-screen prompts to input the required housing data or use the prelo
 
 ## Performance Metrics
 
-![Performance Metrics](pictures used/Performance Metrics.png)
+![Performance Metrics](https://github.com/QuantumQuaser/california_housing_predictor/blob/main/pictures%20used/Performance%20Metrics.png)
 
 Evaluating the accuracy and performance of our predictive model is crucial to understanding its effectiveness in forecasting housing prices. We use two primary metrics for this purpose:
 
@@ -94,7 +94,7 @@ This project is licensed under the MIT License - see the [LICENSE.md](LICENSE) f
 ## Puzzle Challenge
 
 **Can you outsmart our predictor?**
-![Puzzle fun](pictures used/puzzle.png)
+![Puzzle fun](https://github.com/QuantumQuaser/california_housing_predictor/blob/main/pictures%20used/puzzle.png)
 
 - *The Puzzle*: With a fixed budget, you are to buy a property in California that will appreciate the most in the next year. Consider factors like location, size, and nearby amenities. How would you make your choice?
 
