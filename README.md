@@ -19,6 +19,9 @@ Welcome to the California Housing Predictor project! This tool is designed to fo
 - [Puzzle Challenge](#puzzle-challenge)
 
 
+  <img src="https://github.com/QuantumQuaser/california_housing_predictor/blob/main/gifs%20used/step1%20import%20libraries.gif" width="600" height="40" />
+
+
 ````python
 print '# Import necessary libraries
 from sklearn.datasets import fetch_california_housing
