@@ -54,7 +54,7 @@ model.fit(X_train, y_train)'
   ````
 
 
-<img src="https://github.com/QuantumQuaser/california_housing_predictor/blob/main/gifs%20used/step4.gif" width="600" height="40" />
+<img src="https://github.com/QuantumQuaser/california_housing_predictor/blob/main/gifs%20used/step5.gif" width="600" height="40" />
 
 
 
