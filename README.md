@@ -1,6 +1,10 @@
 # California Housing Predictor
 
+<img src="https://github.com/QuantumQuaser/california_housing_predictor/blob/main/pictures%20used/california%20housing%20landscape.png" width="600" height="300"> 
+
 ## Overview
+
+
 
 Welcome to the California Housing Predictor project! This tool is designed to forecast housing prices in California using machine learning models. Dive into the data, explore the factors influencing housing prices, and see how well you can predict the next market trends. Are you ready to challenge the algorithm?
 
@@ -13,6 +17,14 @@ Welcome to the California Housing Predictor project! This tool is designed to fo
 - [Contributing](#contributing)
 - [License](#license)
 - [Puzzle Challenge](#puzzle-challenge)
+
+
+```python
+# Import necessary libraries
+from sklearn.datasets import fetch_california_housing
+from sklearn.model_selection import train_test_split
+from sklearn.linear_model import LinearRegression
+from sklearn.metrics import mean_squared_error, r2_score
 
 ## Installation
 
@@ -39,6 +51,11 @@ Follow the on-screen prompts to input the required housing data or use the prelo
 - Prediction of housing prices based on input features
 
 ## Performance Metrics
+
+
+<img src="https://github.com/QuantumQuaser/california_housing_predictor/blob/main/pictures%20used/Performance%20Metrics.png" width="600" height="300"> 
+
+
 
 Evaluating the accuracy and performance of our predictive model is crucial to understanding its effectiveness in forecasting housing prices. We use two primary metrics for this purpose:
 
@@ -90,6 +107,10 @@ This project is licensed under the MIT License - see the [LICENSE.md](LICENSE) f
 ## Puzzle Challenge
 
 **Can you outsmart our predictor?**
+
+
+<img src="https://github.com/QuantumQuaser/california_housing_predictor/blob/main/pictures%20used/puzzle.png" width="600" height="300"> 
+
 
 - *The Puzzle*: With a fixed budget, you are to buy a property in California that will appreciate the most in the next year. Consider factors like location, size, and nearby amenities. How would you make your choice?
 
