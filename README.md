@@ -4,7 +4,7 @@
 
 ## Overview
 
-<img src="https://github.com/QuantumQuaser/california_housing_predictor/blob/main/pictures%20used/california%20housing%20landscape.png" width="100" height="100">
+
 
 Welcome to the California Housing Predictor project! This tool is designed to forecast housing prices in California using machine learning models. Dive into the data, explore the factors influencing housing prices, and see how well you can predict the next market trends. Are you ready to challenge the algorithm?
 
@@ -44,7 +44,10 @@ Follow the on-screen prompts to input the required housing data or use the prelo
 
 ## Performance Metrics
 
-![Performance Metrics](https://github.com/QuantumQuaser/california_housing_predictor/blob/main/pictures%20used/Performance%20Metrics.png)
+![Performance Metrics]()
+<img src="https://github.com/QuantumQuaser/california_housing_predictor/blob/main/pictures%20used/Performance%20Metrics.png" width="600" height="300"> 
+
+
 
 Evaluating the accuracy and performance of our predictive model is crucial to understanding its effectiveness in forecasting housing prices. We use two primary metrics for this purpose:
 
@@ -96,7 +99,8 @@ This project is licensed under the MIT License - see the [LICENSE.md](LICENSE) f
 ## Puzzle Challenge
 
 **Can you outsmart our predictor?**
-![Puzzle fun](https://github.com/QuantumQuaser/california_housing_predictor/blob/main/pictures%20used/puzzle.png)
+<img src="https://github.com/QuantumQuaser/california_housing_predictor/blob/main/pictures%20used/puzzle.png" width="600" height="300"> 
+
 
 - *The Puzzle*: With a fixed budget, you are to buy a property in California that will appreciate the most in the next year. Consider factors like location, size, and nearby amenities. How would you make your choice?
 
